@@ -1,0 +1,1 @@
+This contains bash projects
