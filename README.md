@@ -1,1 +1,1 @@
-0x02. Shell, I/O Redirections and filters
+This contains bash projects - overwritten by mistake
