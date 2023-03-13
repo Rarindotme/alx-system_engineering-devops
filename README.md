@@ -1,1 +1,1 @@
-This contains bash projects
+0x02. Shell, I/O Redirections and filters
